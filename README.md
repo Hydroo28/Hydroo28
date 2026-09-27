@@ -10,7 +10,7 @@ _Alejandro Taboada_
 ### 🎓 Formación
 
 - Estudiante de 2º de DAW-
-- Forma previa en Sistemas Microinformáticos y redes.
+- Formación previa en Sistemas Microinformáticos y redes.
 - Actualmente mejorando mis conocimientos en desarrollo web
 
 ### 🚀 Mis intereses
@@ -18,15 +18,16 @@ _Alejandro Taboada_
 - Desarrollo Web
 - Programación
 - Desarrollo de Aplicaciones
-- Nuevas Tecnoologías
+- Nuevas Tecnologías
 
 ### 📚 Tecnologías que estoy aprendiendo
 
-1. HTML
-2. CSS 
-3. JavaScript
-4. PHP
-5. Git y GitHub
+1. ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+2. ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+3. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+4. ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+5. ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+6. ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 ## 📋 Objetivos en DAW
 - [x] Aprender Fundamentos de programación 
@@ -38,7 +39,7 @@ _Alejandro Taboada_
 ---
 ## 💻Código
 
-Durante mi desarrollo trabajo con diferentes lenguajes y herramientas. Por ejemplo, en 1º Utilicé python: 
+Durante mi desarrollo trabajé con diferentes lenguajes y herramientas. Por ejemplo, en 1º Utilicé `print("Python")`: 
 ```python
 def saludar():
     print("¡Hola a todos!")
@@ -49,20 +50,6 @@ saludar()
 ## 📂 Mis proyectos
 | Proyecto | Tecnologías | Estado |
 |---|---|---|
-| TecnoMarket | Python, Flask, MongoDB | Finalizado |
-| Juego Canvas | HTML, CSS, JavaScript | En desarrollo |
-
-<!--
-**Hydroo28/Hydroo28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| [TecnoMarker](https://github.com/Hydroo28/Tienda_Online_Flask/tree/main) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  | Finalizado |
+| [Brekaout](https://github.com/Hydroo-28/Brekaout) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | En desarrollo | 
+[Landing FitnessCenter](https://github.com/Hydroo-28/FitnessCenter) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Finalizado
