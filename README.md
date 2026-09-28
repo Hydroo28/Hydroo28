@@ -30,9 +30,9 @@ _Alejandro Taboada_
 6. ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 ## 📋 Objetivos en DAW
-- [x] Aprender Fundamentos de programación 
-- [x] Utilizar Git y GitHub
-- [x] Crear proyectos web
+- [x] ~~ Aprender Fundamentos de programación ~~
+- [x] ~~ Utilizar Git y GitHub ~~
+- [x] ~~ Crear proyectos web ~~
 - [ ] Realizar las prácticas en empresa
 - [ ] Conseguir mi primera experiencia laboral
 
